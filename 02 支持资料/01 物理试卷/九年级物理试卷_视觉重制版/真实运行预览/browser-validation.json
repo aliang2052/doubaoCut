@@ -1,0 +1,72 @@
+[
+  {
+    "file": "Q16_水与油吸热对比.html",
+    "id": 16,
+    "checks": [
+      "offline WebGL",
+      "step boundaries and repeated forward/back",
+      "drag / wheel / view reset",
+      "running interruption by step",
+      "energy and temperature baselines",
+      "800px responsive viewport"
+    ],
+    "errors": [],
+    "externalRequests": []
+  },
+  {
+    "file": "Q17_电磁铁变量探究.html",
+    "id": 17,
+    "checks": [
+      "offline WebGL",
+      "step boundaries and repeated forward/back",
+      "drag / wheel / view reset",
+      "running interruption by step",
+      "three measured groups; no invented numerical result",
+      "800px responsive viewport"
+    ],
+    "errors": [],
+    "externalRequests": []
+  },
+  {
+    "file": "Q18_滑动变阻器调光.html",
+    "id": 18,
+    "checks": [
+      "offline WebGL",
+      "step boundaries and repeated forward/back",
+      "drag / wheel / view reset",
+      "running interruption by step",
+      "nonlinear lamp baseline / overrange / original diagram",
+      "800px responsive viewport"
+    ],
+    "errors": [],
+    "externalRequests": []
+  },
+  {
+    "file": "Q19_汽油机四冲程.html",
+    "id": 19,
+    "checks": [
+      "offline WebGL",
+      "step boundaries and repeated forward/back",
+      "drag / wheel / view reset",
+      "running interruption by step",
+      "four strokes / valves / shaft-work relationship",
+      "800px responsive viewport"
+    ],
+    "errors": [],
+    "externalRequests": []
+  },
+  {
+    "file": "Q20_直流电动机换向.html",
+    "id": 20,
+    "checks": [
+      "offline WebGL",
+      "step boundaries and repeated forward/back",
+      "drag / wheel / view reset",
+      "running interruption by step",
+      "reversal truth table / half-turn / energy",
+      "800px responsive viewport"
+    ],
+    "errors": [],
+    "externalRequests": []
+  }
+]
